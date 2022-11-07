@@ -1,86 +1,99 @@
 {
-	"osu" : [
-		{
-			"title" : "osu! skin",
-			"description" : "Includes osu! and an extra gamemode of your choice.",
-			"price" : "65",
-			"type" : ""
-		},
-		{
-			"title" : "Additional mode for osu! skin",
-			"description" : "\"Another one.\"",
-			"price" : "10",
-			"type" : ""
-		},
-		{
-			"title" : "Additional gameplay variant",
-			"description" : "I'll make a variant of the skin gameplay for a specific playstyle (DT, HD, etc).",
-			"price" : "10",
-			"type" : ""
-		},
-		{
-			"title" : "Make your skin private",
-			"description" : "Having a private skin means i'll only share it with you and won't be published anywhere.",
-			"price" : "10",
-			"type" : ""
-		}
-	],
-	"tourney" : [
-		{
-			"title" : "Static Tournament Backgrounds",
-			"description" : "Backgrounds for the tourney client.",
-			"price" : "3",
-			"type" : "per item"
-		},
-		{
-			"title" : "Animated Tournament Backgrounds",
-			"description" : "Animated backgrounds for the tourney client.",
-			"price" : "6",
-			"type" : "per item"
-		},
-		{
-			"title" : "Tournament Skin",
-			"description" : "Gameplay Only Skin for tournament streaming.",
-			"price" : "20",
-			"type" :""
-		},
-		{
-			"title" : "All Tournament Designs",
-			"description" : "Includes banners, all animated tourney backgrounds, and the skin.",
-			"price" : "80",
-			"type" :""
-		}
-	],
-	"twitch" : [
-		{
-			"title" : "Profile Panels",
-			"description" : "Pack of 3.",
-			"price" : "10",
-			"type" : ""
-		},
-		{
-			"title" : "Profile Banner",
-			"description" : "Includes various Aspect Ratios so it can be used on other platforms.",
-			"price" : "32",
-			"type" : ""
-		},
-		{
-			"title" : "Basic Stream Overlay",
-			"description" : "Includes 3 OBS Scenes, Basic Chat and Alerts, And no Transitions. (Just a basic cross-fade) ",
-			"price" : "120",
-			"type" : ""
-		},
-		{
-			"title" : "Advanced Stream Overlay",
-			"description" : "Includes 4 OBS Scenes, Custom Chat and Alerts, And basic Transitions.",
-			"price" : "200",
-			"type" : ""
-		},
-		{
-			"title" : "Pro Stream Overlay",
-			"description" : "Includes 6 OBS Scenes, Custom Chat and Alerts, And Detailed Transitions.",
-			"price" : "400",
-			"type" : ""
-		}
+	"category": [
+		[
+			"osu!",
+			{
+				"title" : "osu! skin",
+				"description" : "Includes osu! and an extra gamemode of your choice.",
+				"price" : "$60 USD"
+			},
+			{
+				"title" : "Additional mode for osu! skin",
+				"description" : "\"Another one.\"",
+				"price" : "$10 USD"
+			},
+			{
+				"title" : "Additional gameplay variant",
+				"description" : "I'll make a variant of the skin for a specific playstyle (DT, HD, etc).",
+				"price" : "$10 USD"
+			},
+			{
+				"title" : "Make your skin private",
+				"description" : "Having a private skin means i'll only share it with you and won't be published anywhere.",
+				"price" : "$10 USD"
+			}
+		],
+		[
+			"osu!tourney",
+			{
+				"title" : "Static Tournament Backgrounds",
+				"description" : "Backgrounds for the tourney client.",
+				"price" : "$3 USD per item"
+			},
+			{
+				"title" : "Animated Tournament Backgrounds",
+				"description" : "Animated backgrounds for the tourney client.",
+				"price" : "$6 USD per item"
+			},
+			{
+				"title" : "Tournament Skin",
+				"description" : "Gameplay Only Skin for tournament streaming.",
+				"price" : "$20 USD"
+			},
+			{
+				"title" : "All Tournament Designs",
+				"description" : "Includes banners, all animated tourney backgrounds, and the skin.",
+				"price" : "$80 USD"
+			}
+		],
+		[
+			"Streaming",
+			{
+				"title" : "Profile Panels",
+				"description" : "Pack of 3.",
+				"price" : "$10 USD"
+			},
+			{
+				"title" : "Profile Banner",
+				"description" : "Includes various Aspect Ratios so it can be used on other platforms.",
+				"price" : "$30 USD"
+			},
+			{
+				"title" : "Basic Stream Overlay",
+				"description" : "Includes 3 OBS Scenes, Basic Chat and Alerts, And no Transitions.",
+				"price" : "$120 USD"
+			},
+			{
+				"title" : "Advanced Stream Overlay",
+				"description" : "Includes 4 OBS Scenes, Custom Chat and Alerts, And basic Transitions.",
+				"price" : "$200 USD"
+			},
+			{
+				"title" : "Pro Stream Overlay",
+				"description" : "Includes 6 OBS Scenes, Custom Chat and Alerts, And Detailed Transitions.",
+				"price" : "$400 USD"
+			}
+		],
+		[
+			"Web Design",
+			{
+				"title": "Webpage Design",
+				"description": "I'll design a webpage, just like this one.",
+				"price": "$25 USD per page"
+			},
+			{
+				"title": "Full Website Design",
+				"description": "I'll design your entire website or app, please get in contact with me for a quote",
+				"price": ""
+			}
+		],
+		[
+			"Extra",
+			{
+				"title": "Rush Order",
+				"description": "Get your stuff done faster.",
+				"price": "+100%"
+			}
+		]
 	]
 }
