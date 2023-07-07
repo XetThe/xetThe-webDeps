@@ -1,7 +1,6 @@
 {
   "override": { 
-	  "status": false,
-	  "themeOverride": 340,
-	  "messageOverride": "Happy Valentine's Day!"
+	  "status": true,
+	  "messageOverride": "Going through hard times..."
   }
 }
