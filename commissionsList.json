@@ -5,22 +5,39 @@
 			{
 				"title" : "osu! skin",
 				"description" : "Includes osu! and an extra gamemode of your choice.",
-				"price" : "$60 USD"
+				"image": "/resources/skins/miku/songSelect.jpg",
+				"price" : "$80 USD",
+				"clause": {
+					"content": "If not chosen, additional gamemode will default to osu!taiko"
+				},
+				"size": {
+					"width": "nano",
+					"height": "tall"
+				}
 			},
 			{
 				"title" : "Additional mode for osu! skin",
 				"description" : "\"Another one.\"",
-				"price" : "$10 USD"
+				"image": "/resources/skins/miku/taiko.jpg",
+				"price" : "$20 USD"
 			},
 			{
 				"title" : "Additional gameplay variant",
 				"description" : "I'll make a variant of the skin for a specific playstyle (DT, HD, etc).",
-				"price" : "$4 USD"
+				"image": "/resources/skins/noa/osu.jpg",
+				"price" : "$5 USD"
 			},
 			{
 				"title" : "Make your skin private",
-				"description" : "Having a private skin means i'll only share it with you and won't be published anywhere.",
-				"price" : "$10 USD"
+				"description" : "Having a private skin means I'll only share it with you and won't be published anywhere.",
+				"image": "/resources/commissions/lock.png",
+				"price" : "$10 USD",
+				"clause": {
+					"content": "Pictures / screenshots can still be published to this website as a showcase"
+				},
+				"size": {
+					"width": "nano"
+				}
 			}
 		],
 		[
@@ -28,22 +45,35 @@
 			{
 				"title" : "Static Tournament Backgrounds",
 				"description" : "Backgrounds for the tourney client.",
-				"price" : "$3 USD per item"
-			},
-			{
-				"title" : "Animated Tournament Backgrounds",
-				"description" : "Animated backgrounds for the tourney client.",
-				"price" : "$6 USD per item"
+				"image": "/resources/skins/ttm2/mainmenu.jpg",
+				"price" : "$8 USD per item",
+				"size": {
+					"width": "smol"
+				}
 			},
 			{
 				"title" : "Tournament Skin",
 				"description" : "Gameplay Only Skin for tournament streaming.",
-				"price" : "$20 USD"
+				"image": "/resources/skins/ttm2/taiko.jpg",
+				"price" : "$30 USD"
+			},
+			{
+				"title" : "Animated Tournament Backgrounds",
+				"description" : "Animated backgrounds for the tourney client.",
+				"image": "/resources/skins/ttm2/drawings.jpg",
+				"price" : "$14 USD per item",
+				"size": {
+					"width": "nano"
+				}
 			},
 			{
 				"title" : "All Tournament Designs",
 				"description" : "Includes banners, all animated tourney backgrounds, and the skin.",
-				"price" : "$80 USD"
+				"image": "/resources/skins/ttm2/banner.png",
+				"price" : "$140 USD",
+				"size": {
+					"width": "nano"
+				}
 			}
 		],
 		[
@@ -56,35 +86,59 @@
 			{
 				"title" : "Profile Banner",
 				"description" : "Includes various Aspect Ratios so it can be used on other platforms.",
-				"price" : "$30 USD"
+				"image": "/resources/skins/soon/banner.png",
+				"price" : "$40 USD",
+				"size": {
+					"width": "nano"
+				}
 			},
 			{
 				"title" : "Basic Stream Overlay",
 				"description" : "Includes 3 OBS Scenes, Basic Chat and Alerts, And no Transitions.",
+				"image": "/resources/portfolio/2022/streamOverlay.jpg",
 				"price" : "$120 USD"
 			},
 			{
 				"title" : "Advanced Stream Overlay",
 				"description" : "Includes 4 OBS Scenes, Custom Chat and Alerts, And basic Transitions.",
-				"price" : "$200 USD"
+				"image": "/resources/portfolio/2022/streamOverlay.jpg",
+				"price" : "$200 USD",
+				"size": {
+					"width": "nano"
+				}
 			},
 			{
 				"title" : "Pro Stream Overlay",
 				"description" : "Includes 6 OBS Scenes, Custom Chat and Alerts, And Detailed Transitions.",
+				"image": "/resources/portfolio/2022/streamOverlay.jpg",
 				"price" : "$400 USD"
+				,
+				"size": {
+					"width": "nano"
+				}
 			}
 		],
 		[
 			"Web Design",
 			{
 				"title": "Webpage Design",
-				"description": "I'll design a webpage, just like this one.",
-				"price": "Contact Me"
+				"description": "I'll design you a webpage, just like this one.",
+				"image": "/resources/commissions/webpage.png",
+				"price": "Contact Me",
+				"size": {
+					"width": "nano",
+					"height": "tall"
+				}
 			},
 			{
 				"title": "Full Website Design",
 				"description": "I'll design your entire website or app.",
-				"price": "Contact Me"
+				"image": "/resources/commissions/blueprint.png",
+				"price": "Contact Me",
+				"size": {
+					"width": "nano",
+					"height": "tall"
+				}
 			}
 		],
 		[
@@ -92,7 +146,12 @@
 			{
 				"title": "Rush Order",
 				"description": "Get your stuff done faster.",
-				"price": "+103.9%"
+				"image": "/resources/commissions/rush.png",
+				"price": "+103.9%",
+				"size": {
+					"width": "full",
+					"height": "tall"
+				}
 			}
 		]
 	]
