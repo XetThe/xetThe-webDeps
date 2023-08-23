@@ -1,7 +1,7 @@
 {
   "override": { 
-	  "status": true,
-	  "themeOverride": 240,
-	  "messageOverride": "A bit better now :)"
+	  "status": false,
+	  "themeOverride": 0,
+	  "messageOverride": null
   }
 }
