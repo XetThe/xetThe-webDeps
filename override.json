@@ -1,7 +1,7 @@
 {
   "override": { 
-	  "status": true,
-	  "themeOverride": 240,
-	  "messageOverride": "Going through hard times..."
+	  "status": false,
+	  "themeOverride": 0,
+	  "messageOverride": null
   }
 }
