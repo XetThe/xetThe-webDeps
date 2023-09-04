@@ -1,1 +1,9 @@
-{"status":"open","slotsFree":"2","slotsMax":"5"}
+{
+	"status": "closed",
+	"slotsFree": "2",
+	"slotsMax": "5",
+	"statusDescription" : {
+		"title": "Multiple Commissions Underway.",
+		"desc": "Multitasking is apparently harder than I thought."
+	}
+}
