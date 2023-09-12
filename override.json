@@ -1,7 +1,7 @@
 {
   "override": { 
-	  "status": false,
-	  "themeOverride": 0,
-	  "messageOverride": null
+	  "status": true,
+	  "themeOverride": 240,
+	  "messageOverride": "<p class='bday'>IT'S MY BIRTHDAY!!!</p><style>.bday { animation: bday 1s forever } @keyframes { to { transform: rotate(360deg) } }</style>"
   }
 }
