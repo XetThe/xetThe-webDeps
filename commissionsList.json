@@ -124,7 +124,7 @@
 				"title": "Webpage Design",
 				"description": "I'll design you a webpage, just like this one.",
 				"image": "/resources/commissions/webpage.png",
-				"price": "<a href='#contact'>Contact Me</a>",
+				"price": "<a href='#contactInfo'>Contact Me</a>",
 				"size": {
 					"width": "nano",
 					"height": "tall"
@@ -134,7 +134,7 @@
 				"title": "Full Website Design",
 				"description": "I'll design your entire website or app.",
 				"image": "/resources/commissions/blueprint.png",
-				"price": "<a href='#contact'>Contact Me</a>",
+				"price": "<a href='#contactInfo'>Contact Me</a>",
 				"size": {
 					"width": "nano",
 					"height": "tall"
