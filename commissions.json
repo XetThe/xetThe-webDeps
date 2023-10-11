@@ -1,8 +1,7 @@
 {
 	"status": "closed",
-	"slotsFree": "2",
-	"slotsMax": "5",
-	"statusDescription" : {
+	"slots": []
+		"statusDescription" : {
 		"title": "Multiple Commissions Underway.",
 		"desc": "Multitasking is apparently harder than I thought."
 	}
