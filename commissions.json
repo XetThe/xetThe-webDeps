@@ -1,8 +1,14 @@
 {
-	"status": "closed",
-	"slots": [],
-		"statusDescription" : {
-		"title": "Multiple Commissions Underway.",
-		"desc": "Multitasking is apparently harder than I thought."
+	"status": "open",
+	"slots": [
+		"open",
+		"open",
+		"tent",
+		"tent",
+		"full"
+	],
+		"closedDetails" : {
+		"title": null,
+		"desc": null
 	}
 }
