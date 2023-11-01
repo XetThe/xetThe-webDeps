@@ -15,7 +15,7 @@
 			},
 			{
 				"title": "Additional mode for osu! skin",
-				"description": "Add",
+				"description": "Add another game mode to your skin.",
 				"image": "/resources/commissions/rulesets.jpg",
 				"price": "$20 USD"
 			},
@@ -40,7 +40,7 @@
 			},
 			{
 				"title": "osu! userpage (me! section)",
-				"description": "A custom section for your osu! profile that perfectly represents you",
+				"description": "A custom section for your osu! profile that perfectly represents you.",
 				"image": null,
 				"price": "$30 USD per block",
 				"clause": "osu! supporter required, each block is 880x1000px",
