@@ -17,7 +17,10 @@
 				"title": "Additional mode for osu! skin",
 				"description": "Add another game mode to your skin.",
 				"image": "/resources/commissions/rulesets.jpg",
-				"price": "$20 USD"
+				"price": "$20 USD",
+				"size": {
+					"width": 2
+				}
 			},
 			{
 				"title": "Make your skin private",
