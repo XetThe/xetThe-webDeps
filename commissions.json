@@ -2,9 +2,9 @@
 	"status": "open",
 	"slots": [
 		"open",
-		"open",
 		"tent",
 		"tent",
+		"full",
 		"full"
 	],
 		"closedDetails" : {
