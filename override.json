@@ -1,6 +1,6 @@
 {
-	"status": true,
+	"status": false,
 	"hueShift": null,
-	"message":  "glad you're ok...",
+	"message":  null,
 	"animation": null
 }
