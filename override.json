@@ -1,6 +1,6 @@
 {
-	"status": true,
-	"hueShift": 40,
-	"message":  "Happy New Year!",
+	"status": false,
+	"hueShift": null,
+	"message":  null,
 	"animation": null
 }
