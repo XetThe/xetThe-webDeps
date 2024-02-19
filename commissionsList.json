@@ -6,7 +6,7 @@
 				"title": "osu! skin",
 				"description": "Includes osu! standard and an extra gamemode of your choice.",
 				"image": "/resources/commissions/skins.jpg",
-				"price": "$80 USD",
+				"price": "$180 USD",
 				"clause": "If not chosen, additional gamemode will default to osu!taiko.\nIf declined, skin will only include osu! standard.",
 				"size": {
 					"width": 4,
@@ -45,8 +45,8 @@
 				"title": "osu! userpage (me! section)",
 				"description": "A custom section for your osu! profile that perfectly represents you.",
 				"image": null,
-				"price": "$30 USD per block",
-				"clause": "osu! supporter required, each block is 880x1000px",
+				"price": "$10 USD per block",
+				"clause": "osu! supporter required, each block is 880x400px",
 				"size": {
 					"width": 2
 				}
