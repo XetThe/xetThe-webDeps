@@ -1,10 +1,6 @@
 {
-	"status": "open",
-	"slots": [
-		"tent",
-		"full",
-		"full"
-	],
+	"status": "closed",
+	"slots": [],
 		"closedDetails" : {
 		"title": null,
 		"desc": null
