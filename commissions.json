@@ -2,7 +2,7 @@
 	"status": "closed",
 	"slots": [],
 		"closedDetails" : {
-		"title": null,
-		"desc": null
+		"title": "Commissions are closed at the moment",
+		"desc": "Queue is full."
 	}
 }
