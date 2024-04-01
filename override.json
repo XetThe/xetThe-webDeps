@@ -1,6 +1,10 @@
 {
-	"status": false,
+	"status": true,
 	"hueShift": null,
-	"message":  null,
-	"animation": null
+	"message":  "<div style="transform: scaleX(-1)">WHAT?</div>",
+	"animation": {
+		[ transform: '21px, 32px' ],
+		[ transform: '-16px, -21px' ],
+		[ transform: '8px, -16px' ],
+		[ transform: '-20px, 12px' ]
 }
