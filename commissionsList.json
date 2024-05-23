@@ -5,7 +5,7 @@
 			{
 				"title": "osu! skin",
 				"description": "Includes osu! standard and an extra gamemode of your choice.",
-				"image": "/resources/commissions/skins.jpg",
+				"image": "skins.jpg",
 				"price": "$180 USD",
 				"clause": "If not chosen, additional gamemode will default to osu!taiko.\nIf declined, skin will only include osu! standard.",
 				"size": {
@@ -16,7 +16,7 @@
 			{
 				"title": "Additional mode for osu! skin",
 				"description": "Add another game mode to your skin.",
-				"image": "/resources/commissions/rulesets.jpg",
+				"image": "rulesets.jpg",
 				"price": "$20 USD",
 				"size": {
 					"width": 2
@@ -25,7 +25,7 @@
 			{
 				"title": "Make your skin private",
 				"description": "Having a private skin means I'll only share it with you and won't be published anywhere.",
-				"image": "/resources/commissions/lock.jpg",
+				"image": "lock.jpg",
 				"price": "$10 USD",
 				"clause": "Pictures / screenshots can still be published to this website as a showcase",
 				"size": {
@@ -35,7 +35,7 @@
 			{
 				"title": "Additional gameplay variant",
 				"description": "A variant of the skin's gameplay fitted for a specific playstyle (DT, HD, etc).",
-				"image": "/resources/commissions/circles.jpg",
+				"image": "circles.jpg",
 				"price": "$5 USD",
 				"size": {
 					"width": 2
@@ -57,7 +57,7 @@
 			{
 				"title": "Static Tournament Backgrounds",
 				"description": "Backgrounds for the tourney client.",
-				"image": "/resources/commissions/tourney-banner.jpg",
+				"image": "tourney-banner.jpg",
 				"price": "$6 - $20 USD each",
 				"size": {
 					"width": 3,
@@ -77,7 +77,7 @@
 			{
 				"title": "Animated Tournament Backgrounds",
 				"description": "Animated backgrounds for the tourney client.",
-				"image": "/resources/commissions/backgrounds.jpg",
+				"image": "backgrounds.jpg",
 				"price": "$16 - $40 USD each",
 				"size": {
 					"width": 3
@@ -86,7 +86,7 @@
 			{
 				"title": "All Tournament Designs",
 				"description": "Includes banners, all animated tourney backgrounds, and the skin.",
-				"image": "/resources/commissions/all-tourney.jpg",
+				"image": "all-tourney.jpg",
 				"price": "$140 USD",
 				"size": {
 					"width": 3
@@ -98,7 +98,7 @@
 			{
 				"title": "Profile Panels",
 				"description": "Pack of 3.",
-				"image": "/resources/commissions/panels.jpg",
+				"image": "panels.jpg",
 				"price": "$10 USD",
 				"size": {
 					"width": 2,
@@ -108,7 +108,7 @@
 			{
 				"title": "Profile Banner",
 				"description": "Includes various Aspect Ratios so it can be used on other platforms.",
-				"image": "/resources/commissions/banner.jpg",
+				"image": "banner.jpg",
 				"price": "$12 - $80 USD",
 				"size": {
 					"width": 2,
@@ -118,7 +118,7 @@
 			{
 				"title": "Basic Stream Overlay",
 				"description": "Includes 3 OBS Scenes, Basic Chat and Alerts, And no Transitions.",
-				"image": "/resources/commissions/so-phase-1.jpg",
+				"image": "so-phase-1.jpg",
 				"price": "$120 USD",
 				"size": {
 					"width": 2,
@@ -128,7 +128,7 @@
 			{
 				"title": "Advanced Stream Overlay",
 				"description": "Includes 4 OBS Scenes, Custom Chat and Alerts, And basic Transitions.",
-				"image": "/resources/commissions/so-phase-2.jpg",
+				"image": "so-phase-2.jpg",
 				"price": "$200 USD",
 				"size": {
 					"width": 2
@@ -137,7 +137,7 @@
 			{
 				"title": "Pro Stream Overlay",
 				"description": "Includes 6 OBS Scenes, Custom Chat and Alerts, And Detailed Transitions.",
-				"image": "/resources/commissions/so-phase-3.jpg",
+				"image": "so-phase-3.jpg",
 				"price": "$400 USD",
 				"size": {
 					"width": 4,
@@ -150,7 +150,7 @@
 			{
 				"title": "Webpage Design",
 				"description": "I'll design you a webpage, just like this one.",
-				"image": "/resources/commissions/blueprint-phase-1.jpg",
+				"image": "blueprint-phase-1.jpg",
 				"price": "$100 USD",
 				"size": {
 					"width": 3,
@@ -160,7 +160,7 @@
 			{
 				"title": "Full Website Design",
 				"description": "I'll design your entire website or app.",
-				"image": "/resources/commissions/blueprint-phase-2.jpg",
+				"image": "blueprint-phase-2.jpg",
 				"price": "$18 USD / hr",
 				"size": {
 					"width": 5,
@@ -173,7 +173,7 @@
 			{
 				"title": "Rush Order",
 				"description": "Get your stuff done faster.",
-				"image": "/resources/commissions/rush.jpg",
+				"image": "rush.jpg",
 				"price": "+103.9%",
 				"size": {
 					"width": 6,
