@@ -176,7 +176,7 @@
 				"image": "rush.jpg",
 				"price": "+103.9%",
 				"size": {
-					"width": 6,
+					"width": 4,
 					"height": 2
 				}
 			},
@@ -186,7 +186,7 @@
 				"image": "../skins/tenshi/skip.gif",
 				"price": "$20 USD",
 				"size": {
-					"width": 2,
+					"width": 4,
 					"height": 2
 				}
 			}
