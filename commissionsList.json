@@ -183,7 +183,7 @@
 			{
 				"title": "Lively assets",
 				"description": "Add extra animations to your commission!",
-				"image": null,
+				"image": "../skins/tenshi/skip.gif",
 				"price": "$20 USD",
 				"size": {
 					"width": 2,
