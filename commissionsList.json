@@ -54,7 +54,7 @@
 			{
 				"title": "OBS Scene",
 				"description": "An OBS Scene for your stream.",
-				"image": "scene.png",
+				"image": "streaming-scene.png",
 				"price": "$25 - 50 USD per scene",
 				"size": {
 					"width": 2,
@@ -64,7 +64,7 @@
 			{
 				"title": "Custom Chat",
 				"description": "A custom chat widget for your stream.",
-				"image": "chat.png",
+				"image": "streaming-chat.png",
 				"price": "$40 - 100 USD",
 				"size": {
 					"width": 2,
@@ -74,7 +74,7 @@
 			{
 				"title": "Custom Alert",
 				"description": "A custom alert for events in your stream.",
-				"image": "alert.png",
+				"image": "streaming-alert.png",
 				"price": "$30 - 80 USD",
 				"size": {
 					"width": 2,
@@ -84,7 +84,7 @@
 			{
 				"title": "OBS Stinger Transition",
 				"description": "A transition for scene-switching in OBS.",
-				"image": "transition.png",
+				"image": "streaming-transition.png",
 				"price": "$80 - 200 USD",
 				"size": {
 					"width": 2,
