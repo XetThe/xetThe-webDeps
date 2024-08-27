@@ -1,6 +1,99 @@
 {
 	"category": [
 		[
+			"Streaming",
+			{
+				"title": "Profile Panels",
+				"description": "Pack of 3.",
+				"image": "panels.jpg",
+				"price": "$10 USD",
+				"size": {
+					"width": 2,
+					"height": 2
+				}
+			},
+			{
+				"title": "Profile Banner",
+				"description": "Includes various Aspect Ratios so it can be used on other platforms.",
+				"image": "banner.jpg",
+				"price": "$12 - $80 USD",
+				"size": {
+					"width": 2,
+					"height": 2
+				}
+			},
+			{
+				"title": "Basic Stream Overlay",
+				"description": "Includes 3 OBS Scenes, Basic Chat and Alerts, And no Transitions.",
+				"image": "so-phase-1.jpg",
+				"price": "$120 USD",
+				"size": {
+					"width": 2,
+					"height": 1
+				}
+			},
+			{
+				"title": "Advanced Stream Overlay",
+				"description": "Includes 4 OBS Scenes, Custom Chat and Alerts, And basic Transitions.",
+				"image": "so-phase-2.jpg",
+				"price": "$200 USD",
+				"size": {
+					"width": 2
+				}
+			},
+			{
+				"title": "Pro Stream Overlay",
+				"description": "Includes 6 OBS Scenes, Custom Chat and Alerts, And Detailed Transitions.",
+				"image": "so-phase-3.jpg",
+				"price": "$400 USD",
+				"size": {
+					"width": 4,
+					"height": 1
+				}
+			},
+			{
+				"title": "OBS Scene",
+				"description": "An OBS Scene for your stream.",
+				"image": "scene.png",
+				"price": "$25 - 50 USD per scene",
+				"size": {
+					"width": 2,
+					"height": 1
+				}
+			},
+			{
+				"title": "Custom Chat",
+				"description": "A custom chat widget for your stream.",
+				"image": "chat.png",
+				"price": "$40 - 100 USD",
+				"size": {
+					"width": 2,
+					"height": 1
+				}
+			},
+			{
+				"title": "Custom Alert",
+				"description": "A custom alert for events in your stream.",
+				"image": "alert.png",
+				"price": "$30 - 80 USD",
+				"size": {
+					"width": 2,
+					"height": 1
+				}
+			},
+			{
+				"title": "OBS Stinger Transition",
+				"description": "A transition for scene-switching in OBS.",
+				"image": "transition.png",
+				"price": "$80 - 200 USD",
+				"size": {
+					"width": 2,
+					"height": 1
+				}
+			}
+			
+		],
+		[
 			"osu!",
 			{
 				"title": "osu! skin",
@@ -44,7 +137,7 @@
 			{
 				"title": "osu! userpage (me! section)",
 				"description": "A custom section for your osu! profile that perfectly represents you.",
-				"image": null,
+				"image": "me.png",
 				"price": "$10 USD per block",
 				"clause": "osu! supporter required, each block is 880x400px",
 				"size": {
@@ -90,58 +183,6 @@
 				"price": "$140 USD",
 				"size": {
 					"width": 3
-				}
-			}
-		],
-		[
-			"Streaming",
-			{
-				"title": "Profile Panels",
-				"description": "Pack of 3.",
-				"image": "panels.jpg",
-				"price": "$10 USD",
-				"size": {
-					"width": 2,
-					"height": 2
-				}
-			},
-			{
-				"title": "Profile Banner",
-				"description": "Includes various Aspect Ratios so it can be used on other platforms.",
-				"image": "banner.jpg",
-				"price": "$12 - $80 USD",
-				"size": {
-					"width": 2,
-					"height": 2
-				}
-			},
-			{
-				"title": "Basic Stream Overlay",
-				"description": "Includes 3 OBS Scenes, Basic Chat and Alerts, And no Transitions.",
-				"image": "so-phase-1.jpg",
-				"price": "$300 USD",
-				"size": {
-					"width": 2,
-					"height": 1
-				}
-			},
-			{
-				"title": "Advanced Stream Overlay",
-				"description": "Includes 4 OBS Scenes, Custom Chat and Alerts, And basic Transitions.",
-				"image": "so-phase-2.jpg",
-				"price": "$600 USD",
-				"size": {
-					"width": 2
-				}
-			},
-			{
-				"title": "Pro Stream Overlay",
-				"description": "Includes 6 OBS Scenes, Custom Chat and Alerts, And Detailed Transitions.",
-				"image": "so-phase-3.jpg",
-				"price": "$1,000 USD",
-				"size": {
-					"width": 4,
-					"height": 1
 				}
 			}
 		],
