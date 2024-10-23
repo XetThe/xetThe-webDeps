@@ -1,6 +1,9 @@
 {
-	"status": "closed",
-	"slots": [],
+	"status": "open",
+	"slots": [
+		"open",
+		"open"
+	],
 		"closedDetails" : {
 		"title": "Commissions are closed at the moment",
 		"desc": "In hiatus."
