@@ -99,7 +99,7 @@
 				"title": "osu! skin",
 				"description": "Includes osu! standard and an extra gamemode of your choice.",
 				"image": "skins.jpg",
-				"price": "$180 USD",
+				"price": "$240 USD",
 				"clause": "If not chosen, additional gamemode will default to osu!taiko.\nIf declined, skin will only include osu! standard.",
 				"size": {
 					"width": 4,
@@ -110,7 +110,7 @@
 				"title": "Additional mode for osu! skin",
 				"description": "Add another game mode to your skin.",
 				"image": "rulesets.jpg",
-				"price": "$20 USD",
+				"price": "$40 USD",
 				"size": {
 					"width": 2
 				}
@@ -138,7 +138,7 @@
 				"title": "osu! userpage (me! section)",
 				"description": "A custom section for your osu! profile that perfectly represents you.",
 				"image": "me.png",
-				"price": "$10 USD per block",
+				"price": "$30 USD per block",
 				"clause": "osu! supporter required, each block is 880x400px",
 				"size": {
 					"width": 2
@@ -151,7 +151,7 @@
 				"title": "Static Tournament Backgrounds",
 				"description": "Backgrounds for the tourney client.",
 				"image": "tourney-banner.jpg",
-				"price": "$6 - $20 USD each",
+				"price": "$40 - $120 USD each",
 				"size": {
 					"width": 3,
 					"height": 2
@@ -161,7 +161,7 @@
 				"title": "Tournament Skin",
 				"description": "Gameplay Only Skin for tournament streaming.",
 				"image": null,
-				"price": "$30 USD",
+				"price": "$80 USD",
 				"size": {
 					"width": 2,
 					"height": 2
@@ -171,7 +171,7 @@
 				"title": "Animated Tournament Backgrounds",
 				"description": "Animated backgrounds for the tourney client.",
 				"image": "backgrounds.jpg",
-				"price": "$16 - $40 USD each",
+				"price": "$160 - $400 USD each",
 				"size": {
 					"width": 3
 				}
@@ -180,7 +180,7 @@
 				"title": "All Tournament Designs",
 				"description": "Includes banners, all animated tourney backgrounds, and the skin.",
 				"image": "all-tourney.jpg",
-				"price": "$140 USD",
+				"price": "$320 USD",
 				"size": {
 					"width": 3
 				}
@@ -192,7 +192,7 @@
 				"title": "Webpage Design",
 				"description": "I'll design you a webpage, just like this one.",
 				"image": "blueprint-phase-1.jpg",
-				"price": "$100 USD",
+				"price": "$150 USD",
 				"size": {
 					"width": 3,
 					"height": 2
@@ -202,7 +202,7 @@
 				"title": "Full Website Design",
 				"description": "I'll design your entire website or app.",
 				"image": "blueprint-phase-2.jpg",
-				"price": "$18 USD / hr",
+				"price": "$22 USD / hr",
 				"size": {
 					"width": 5,
 					"height": 2
