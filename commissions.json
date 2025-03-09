@@ -1,11 +1,10 @@
 {
-	"status": "open",
+	"status": "closed",
 	"slots": [
-		"tent",
 		"closed"
 	],
 		"closedDetails" : {
 		"title": "Commissions are closed at the moment",
-		"desc": "In hiatus."
+		"desc": "All slots taken."
 	}
 }
