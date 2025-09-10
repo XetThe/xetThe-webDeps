@@ -1,7 +1,8 @@
 {
-	"status": "closed",
+	"status": "open",
 	"slots": [
-		"closed"
+		"free",
+		"free"
 	],
 		"closedDetails" : {
 		"title": "Commissions are closed at the moment",
